@@ -1,16 +1,21 @@
-## Hi there 👋
+### currently exploring 3D modeling and procedural generation in Blender.
 
-<!--
-**hino89/hino89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github.com/hino89/hino89/blob/main/halo-6.png?raw=true" alt="Kanna Halo" width="100%">
+      <br>
+      <b>Kanna Halo (Blue Archive)</b><br>
+      <sub>Procedural Curves & Radial Gradients</sub>
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github.com/hino89/hino89/blob/main/saori-halo-9.png?raw=true" alt="Saori Halo" width="100%">
+      <br>
+      <b>Saori Halo (Blue Archive)</b><br>
+      <sub>Volumetric Fog & Hard-Surface Geometry</sub>
+    </td>
+  </tr>
+</table>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
