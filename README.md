@@ -9,7 +9,7 @@
       <sub>Procedural Curves & Radial Gradients</sub>
     </td>
     <td align="center" width="50%">
-      <img src="https://github.com/hino89/hino89/blob/main/kanna-halo-anim.mkx?raw=true" alt="Saori Halo" width="100%">
+      <img src="https://github.com/hino89/hino89/blob/main/kanna-halo-anim.gif?raw=true" alt="Kanna Halo Anim" width="100%">
       <br>
       <b>Animation</b><br>
       <subTurntable</sub>
