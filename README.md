@@ -26,16 +26,6 @@
       <b>Niya Halo (Blue Archive)</b><br>
       <sub>Ornamental Curves & Layer Weight Shading</sub>
     </td>
-
-
-
-    
-    <!-- <td align="center" width="50%">
-      <img src="https://github.com/hino89/hino89/blob/main/kanna-halo-anim.gif?raw=true" alt="Kanna Halo Anim" width="75%">
-      <br>
-      <b>Animation</b><br>
-      <subTurntable</sub>
-    </td> -->
   </tr>
 </table>
 
